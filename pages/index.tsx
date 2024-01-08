@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <HeroSection  
-        heading='"Ceritakanlah Pengalaman Keseharianmu Melalui chat Kami, We share Our Hope Here!! "' 
+        heading='"Ceritakanlah Pengalaman Berhargamu Bersama Kami, We share Our Hope Here!!"' 
         message='~Hikaru Chat'
       />
       <ChatSection/>

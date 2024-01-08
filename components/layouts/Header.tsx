@@ -53,7 +53,7 @@ const Header = () => {
               <Link href='/#hero'>Home</Link>
             </li> 
             <li className='flex justify-center items-center p-4 hover:text-[#96d9f0] hover:border-b-2 hover:border-[#96d9f0] transform hover:scale-110 hover:mt-2 hover:font-bold '>
-              <Link href='/#journal'>Journal</Link>
+              <Link href='/#chat'>Chatting</Link>
             </li> 
             <li className='p-4 hover:text-[#96d9f0] hover:border-b-2 hover:border-[#96d9f0] transform hover:scale-110 hover:mt-2 hover:font-bold '>
               <Link href='/#quote'>Quotes</Link>
@@ -81,7 +81,7 @@ const Header = () => {
               <Link href='/#hero'>Home</Link>
             </li>
             <li className='p-4 text-4xl hover:text-[#96d9f0] hover:border-b-2 hover:border-[#96d9f0] transform hover:scale-110 hover:mt-2 hover:font-bold'>
-              <Link href='/#journal'>Journal</Link>
+              <Link href='/#chat'>Chatting</Link>
             </li>
             <li className='p-4 text-4xl hover:text-[#96d9f0] hover:border-b-2 hover:border-[#96d9f0] transform hover:scale-110 hover:mt-2 hover:font-bold'>
               <Link href='/#qoutes'>Quotes</Link>
