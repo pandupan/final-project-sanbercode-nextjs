@@ -17,6 +17,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/pages/landing-page/QuotesSection.jsx", "components/pages/landincomponents/pages/home-page/ReplyPage.jsxonents/pages/ReplyPage.jsx", "components/pages/landing-page/ChatSection.jsx"],
   "exclude": ["node_modules"]
 }
